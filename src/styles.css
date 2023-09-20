@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  background-color: white;
+}
+#card {
+  background-color: whitesmoke;
+  border-radius: 15px;
+  width: 350px;
+  height: 250px;
+  text-align: center;
+  box-shadow: 5px 5px 5px 5px rgb(100, 107, 109);
+  padding-top: 2px;
+  margin: 80px 120px;
+}
+#output {
+  padding-top: 0px;
+  margin-top: 0px;
+  font-size: 100px;
+  margin-bottom: 0px;
+}
+#heading {
+  margin-bottom: 0px;
+}
+#dec {
+  margin-left: 15px;
+  font-size: 25px;
+  padding: 5px;
+}
+#inc {
+  margin-right: 15px;
+  font-size: 25px;
+  padding: 5px;
+}
